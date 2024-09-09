@@ -4,7 +4,7 @@
 
 ## Skills
 
-![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,git,github,regex,bots,aws,mongodb,gcp)
+![SkillIcons](https://skillicons.dev/icons?i=py,js,git,github,gradle,java,ai,idea,jenkins,html,css,md,maven,prisma,stackoverflow,vscode,regex,bots,aws,mongodb,gcp)
 
 ## Stats
 
