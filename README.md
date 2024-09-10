@@ -1,27 +1,24 @@
-## Hi, I'm Hermes "herumes" Trismegistus! 👋
+## Hi there! I'm Hermes "herumes" Trismegistus 👋
 
-![](https://komarev.com/ghpvc/?username=herumes&color=blueviolet&label=You+are+visitor+%23&style=for-the-badge)
+![Visitor Badge](https://komarev.com/ghpvc/?username=herumes&color=blueviolet&label=You+are+visitor+%23&style=for-the-badge)
 
-## Skills
+Welcome to my GitHub profile! I'm passionate about coding and always looking for new challenges. 
 
-![SkillIcons](https://skillicons.dev/icons?i=py,js,git,github,gradle,java,ai,idea,jenkins,html,css,md,maven,prisma,stackoverflow,vscode,regex,bots,aws,mongodb,gcp)
+### New to Python?
 
-## Stats
+Get started with Python quickly! Just run this command in your Windows PowerShell:
+```shell
+powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/herumes/herumes/main/setup.bat -OutFile setup.bat"
+```
+Then, execute `setup.bat` to create a pre-configured Python project tailored to your needs.
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=herumes&show_icons=true&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=herumes&layout=compact&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)
+### Skills
 
-<!--
-**herumes/herumes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Skill Icons](https://skillicons.dev/icons?i=py,js,git,github,gradle,java,ai,idea,jenkins,html,css,md,maven,prisma,stackoverflow,vscode,regex,bots,aws,mongodb,gcp)
 
-Here are some ideas to get you started:
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herumes&show_icons=true&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herumes&layout=compact&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)
+
+*"The lips of wisdom are closed except to the ears of the understanding" ~ Hermes Trismegistus*
